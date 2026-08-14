@@ -2,7 +2,9 @@
 Python Implementation of the Cyclic Scheduling Algorithm, and its comparison with FCFS, SJF, and Round Robin Scheduling Algorithm.
 
 **Research Paper**: Cyclic Scheduling Algorithm
+
 **Author**: [Ravin Kumar](https://mr-ravin.github.io)
+
 **Publication**: 03 May 2019
 
 **Paper available at**:
