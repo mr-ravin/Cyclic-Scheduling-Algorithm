@@ -47,7 +47,7 @@ Paper-specified CSA rules:
     - QNEW = min(RTX, (Max-Min)/2, sum(RT)/N), after removing
       zero-valued terms and enforcing QNEW >= 1.
 
-Explicit clarifications used by this implementation (not stated in the paper):
+Explicit clarifications used by this implementation:
     1. Exact Select_Process ties choose the oldest process (earliest
        arrival); if arrival is also tied, choose the lower PID.
     2. Fractional QNEW values are retained; no floor/ceil rounding.
